@@ -32,6 +32,9 @@
 # String#encode(encode)
 # String#encoding
 #
+# Unicode出力(10進数)
+# String.codepoint -> enumerator
+#
 # nfkライブラリ
 # nfk(Network Knaji code conversion Filter)は半角カナを全角かなに変換する
 # ような場合に使用する。
